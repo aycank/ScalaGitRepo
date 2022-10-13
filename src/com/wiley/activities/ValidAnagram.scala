@@ -1,6 +1,6 @@
 package com.wiley.activities
 
-/*
+
 object ValidAnagram extends App{
   def isAnagram(s: String, t: String): Boolean = {
     var map : Map[Char, Int] = Map()
@@ -11,14 +11,14 @@ object ValidAnagram extends App{
       map + (s.charAt(i) -> (map.getOrElse(s.charAt(i), 0) + 1))
     }
     for(i <- 0 until t.length){
-      println(map.get(t.charAt(i)))
       // if map doesn't contain key, anagram not found, false
       if(!map.contains(t.charAt(i))){
         return false;
       }
       // If the value of the specific key is greater than 0, reduce it by 1
-      else if(map.get(t.charAt(i)) > 0){
-        map + (t.charAt(i) -> map.get(t.charAt(i)) - 1)
+      else if(map.get(t.charAt(i)).exists(_ > 0)){
+        println("got here")
+        //map + (t.charAt(i) -> map.get(t.charAt(i)) - 1)
       }
       else{
         return false
@@ -28,4 +28,3 @@ object ValidAnagram extends App{
   }
   println(isAnagram("anagram", "nagaram"))
 }
-*/

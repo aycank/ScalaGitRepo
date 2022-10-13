@@ -1,11 +1,15 @@
 package com.wiley.constructor
 
+// Manipulate data in an instance
+
 class SecondaryConstructor(id : Int, name : String) {
   var age : Int = 0
   var temp : Int = 1
+
   def showDetails() : Unit = {
     println(id + "  " + name + "  " + age + "  " + temp)
   }
+
   def this(id : Int, name : String, age : Int){
     this(id ,name)
     this.age = age + 2
@@ -20,6 +24,9 @@ class SecondaryConstructor(id : Int, name : String) {
 object hello extends App{
   var s = new SecondaryConstructor(1, "ram", 29)
   s.showDetails()
-  var s1 = new SecondaryConstructor(1, "ram", 29, 56)
+  println(s.age)
+
+  var s1 = new SecondaryConstructor(1, "ram", 31, 56)
   s1.showDetails()
+  println(s1.age)
 }

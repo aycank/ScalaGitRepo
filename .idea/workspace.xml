@@ -1,70 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="468e3b18-20c0-4de8-abc5-42db6af0bd41" name="Changes" comment="commit test">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/Boxing.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/abstractclass/AbstractClassDetail.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/abstractclass/AbstractClassMain.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/accessmodifiers/AccessTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Activity1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Activity2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Activity3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Activity4.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Activity5.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Activity6.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Activity7.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Activity8.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/PalindromeActivity.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/StopWhenNotEven.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/ValidAnagram.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/arrays/PracticeArray.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/arrays/PracticeArray2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/caseclass/MainCaseClass.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/constructor/DefaultConstructor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/constructor/PrimaryConstructor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/constructor/SecondaryConstructor.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/finaltest/FinalMain.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/functions/Addition.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/functions/DefaultValFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/functions/FunctionCall.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/functions/HigherOrderFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/higherorderfunctions/AnonymousFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/higherorderfunctions/Composition.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/higherorderfunctions/NestedFunctions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/higherorderfunctions/ScalaCurryingFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/higherorderfunctions/VariableLengthParameters.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/inheritance/BasicsInheritance.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/inheritance/MultiLevelInheritance.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/lazyevaluation/LazyEvaluation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/lazyevaluation/LazyHigherOrder.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/objectoriented/Arithmetic.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/objectoriented/CompanionObject.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/objectoriented/Student.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/objectoriented/Student2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/objectoriented/StudentRecord.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/objectoriented/StudentRecordOther.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/operators/Operators.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/BasicsList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/EvenOdd.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/Interactive.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/MixTypes.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/Palindrome.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/PrintStatements.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/Temp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/Tuple.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/other/WhatLearnt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/pattern/Singleton.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/polymorphism/BankPolymorphismExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/polymorphism/FieldOverride.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/polymorphism/MethodOverriding.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/polymorphism/mathsComputation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/recursion/SquareNumber.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/traitpractice/MixTraits.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/traitpractice/TraitPractice.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/variables/MultipleAssignment.scala" afterDir="false" />
+    <list default="true" id="468e3b18-20c0-4de8-abc5-42db6af0bd41" name="Changes" comment="adding all as of 10/10/2022">
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/AbstractDonut.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Constructors.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/RemoveDuplicatesFromSortedArray.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/Account.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/Bank.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/BankMain.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/Customer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankprojectUpdated/Bank.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankprojectUpdated/Menu.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/SetExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/SortedSetExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/exceptions/ExceptionExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/exceptions/ExceptionExample2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/exceptions/ExceptionExamples.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/exceptions/ThrowException.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/multidimensional/AdditionMultiDim.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/multidimensional/MultiArrayExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/strings/StringComparison.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/strings/StringExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/strings/stringinterpolation/StringInter.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wiley/activities/ValidAnagram.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wiley/activities/ValidAnagram.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wiley/constructor/PrimaryConstructor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wiley/constructor/PrimaryConstructor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wiley/constructor/SecondaryConstructor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wiley/constructor/SecondaryConstructor.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Scala Object" />
         <option value="Package Object" />
+        <option value="Scala Object" />
       </list>
     </option>
   </component>
@@ -104,22 +65,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Aycan/IdeaProjects/ScalaTest",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aycan/IdeaProjects/FirstSBTProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ValidAnagram">
-    <configuration name="ActivityShopping" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.activities.ActivityShopping" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aycan\IdeaProjects\ScalaCoding\src\com\wiley\exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BankMain">
+    <configuration name="BankMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.bankproject.BankMain" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.activities.*" />
+          <option name="PATTERN" value="com.wiley.bankproject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeActivity" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.activities.PalindromeActivity" />
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.bankprojectUpdated.Menu" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.activities.*" />
+          <option name="PATTERN" value="com.wiley.bankprojectUpdated.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWhenNotEven" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.activities.StopWhenNotEven" />
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.constructor.Temp" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.activities.*" />
+          <option name="PATTERN" value="com.wiley.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.activities.ValidAnagram" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.bankproject.Test" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.activities.*" />
+          <option name="PATTERN" value="com.wiley.bankproject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stopWhenNotEven" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.activities.stopWhenNotEven" />
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.constructor.hello" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.activities.*" />
+          <option name="PATTERN" value="com.wiley.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidAnagram" />
-        <item itemvalue="Application.StopWhenNotEven" />
-        <item itemvalue="Application.stopWhenNotEven" />
-        <item itemvalue="Application.PalindromeActivity" />
-        <item itemvalue="Application.ActivityShopping" />
+        <item itemvalue="Application.BankMain" />
+        <item itemvalue="Application.Menu" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.hello" />
+        <item itemvalue="Application.Temp" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664877387741</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding all as of 10/10/2022">
+      <created>1665390479090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665390479090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +194,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
+    <MESSAGE value="adding all as of 10/10/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding all as of 10/10/2022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
