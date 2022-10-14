@@ -30,7 +30,7 @@ class Customer(fName : String, lName : String, postCode : String){
     println("Choose which Account to Delete:\n1) Checkings\n2) Savings")
     val option : Int = readInt
     if(option == 1){
-      map(intPin) += "Checkings"
+      map(intPin) ::= "Checkings"
     }else if(option == 2){
       map(intPin) ::= "Savings"
     }

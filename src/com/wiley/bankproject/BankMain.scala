@@ -7,7 +7,7 @@ object BankMain {
     val bank = new Bank
     printMenu()
     start()
-    def start() ={
+    def start() : Unit ={
       var choiceBank: Int = 0
       while (choiceBank != 10) {
         println("Please select one of the following options:\n" +

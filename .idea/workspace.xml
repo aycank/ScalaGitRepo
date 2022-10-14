@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="468e3b18-20c0-4de8-abc5-42db6af0bd41" name="Changes" comment="adding all as of 10/10/2022">
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/AbstractDonut.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/Constructors.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/activities/RemoveDuplicatesFromSortedArray.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/Account.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/Bank.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/BankMain.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/Customer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankprojectUpdated/Bank.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/bankprojectUpdated/Menu.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/SetExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/SortedSetExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/exceptions/ExceptionExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/exceptions/ExceptionExample2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/exceptions/ExceptionExamples.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/exceptions/ThrowException.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/multidimensional/AdditionMultiDim.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/multidimensional/MultiArrayExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/strings/StringComparison.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/strings/StringExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wiley/strings/stringinterpolation/StringInter.scala" afterDir="false" />
+    <list default="true" id="468e3b18-20c0-4de8-abc5-42db6af0bd41" name="Changes" comment="updating, adding extra classes">
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/ListSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/collectionbitset/AddRemoveBitSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/collectionhashset/MainHashSetExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/collectionsequence/Sequence.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/collections/collectionvector/VectorPlay.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wiley/patternmatching/MatchNumbers.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wiley/activities/ValidAnagram.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wiley/activities/ValidAnagram.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wiley/constructor/PrimaryConstructor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wiley/constructor/PrimaryConstructor.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wiley/constructor/SecondaryConstructor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wiley/constructor/SecondaryConstructor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wiley/bankproject/BankMain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/BankMain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wiley/bankproject/Customer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wiley/bankproject/Customer.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +64,13 @@
       <recent name="C:\Users\Aycan\IdeaProjects\ScalaCoding\src\com\wiley\exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BankMain">
-    <configuration name="BankMain" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.bankproject.BankMain" />
+  <component name="RunManager" selected="Application.VectorPlay">
+    <configuration name="AddRemoveBitSet" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.collections.collectionbitset.AddRemoveBitSet" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.bankproject.*" />
+          <option name="PATTERN" value="com.wiley.collections.collectionbitset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Menu" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.bankprojectUpdated.Menu" />
+    <configuration name="ListSet" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.collections.ListSet" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.bankprojectUpdated.*" />
+          <option name="PATTERN" value="com.wiley.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.constructor.Temp" />
+    <configuration name="MatchNumbers" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.patternmatching.MatchNumbers" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.constructor.*" />
+          <option name="PATTERN" value="com.wiley.patternmatching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.bankproject.Test" />
+    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.collections.collectionsequence.Sequence" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.bankproject.*" />
+          <option name="PATTERN" value="com.wiley.collections.collectionsequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.wiley.constructor.hello" />
+    <configuration name="VectorPlay" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wiley.collections.collectionvector.VectorPlay" />
       <module name="ScalaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wiley.constructor.*" />
+          <option name="PATTERN" value="com.wiley.collections.collectionvector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankMain" />
-        <item itemvalue="Application.Menu" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.hello" />
-        <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.VectorPlay" />
+        <item itemvalue="Application.Sequence" />
+        <item itemvalue="Application.MatchNumbers" />
+        <item itemvalue="Application.ListSet" />
+        <item itemvalue="Application.AddRemoveBitSet" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665390479090</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updating, adding extra classes">
+      <created>1665650170102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665650170102</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +187,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit test" />
     <MESSAGE value="adding all as of 10/10/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding all as of 10/10/2022" />
+    <MESSAGE value="updating, adding extra classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating, adding extra classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
